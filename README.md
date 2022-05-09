@@ -8,4 +8,4 @@ These settings can be saved in .fds files, currently no way to
 save just load. Planned to add saving settings in later
 version
 
-![images](https://user-images.githubusercontent.com/79758393/167446072-1bddb3af-0e56-4acf-9686-83a47a126d63.jpg)
+![11zon_resized(1)](https://user-images.githubusercontent.com/79758393/167446229-6ca51fe1-16dd-43e4-beac-eae86d1a6bb0.jpg)
