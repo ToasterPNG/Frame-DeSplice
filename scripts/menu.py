@@ -276,7 +276,7 @@ label_cur_frame = tkinter.Label(w, text='Frame: ' + cur_frame, font=("Helvetica"
 
 link1 = Label(w, text="Builds", fg="blue", cursor="hand2", font=('Helvetica 10 underline'))
 link1.place(x=10,y=220)
-link1.bind("<Button-1>", lambda e: os.system("start https://github.com/ToasterPNG/Frame DeSplice/releases"))
+link1.bind("<Button-1>", lambda e: os.system("start https://github.com/ToasterPNG/Frame-DeSplice/releases"))
 
 Input_Text_Box = Text(w, height=1.4, width=22)
 Output_Text_Box = Text(w, height=1.4, width=22)
