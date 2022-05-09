@@ -10,4 +10,4 @@ version
 
 ![11zon_resized(1)](https://user-images.githubusercontent.com/79758393/167446229-6ca51fe1-16dd-43e4-beac-eae86d1a6bb0.jpg)
 
-![alive-progress demo](assets/desplicing_demo.gif)
+![desplicing demo](assets/desplicing_demo.gif)
