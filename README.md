@@ -1,5 +1,5 @@
 # Frame-DeSplice
-Frame DeSplice will take a sequence of images and then turn it into a video with ffmpeg.
+Frame DeSplice will take a sequence of images and then turn it into a video with ffmpeg. Made in 2 days (v1.0)
 
 ## Settings
 
