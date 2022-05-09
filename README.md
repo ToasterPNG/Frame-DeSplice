@@ -4,7 +4,6 @@ Frame DeSplice will take a sequence of images and then turn it into a video with
 ## Settings
 
 FPS, FileName, FileType, Input and Output Folder
-
 These settings can be saved in .fds files, currently no way to
 save just load.
 
