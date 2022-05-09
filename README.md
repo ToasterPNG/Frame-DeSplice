@@ -8,4 +8,4 @@ FPS, FileName, FileType, Input and Output Folder
 These settings can be saved in .fds files, currently no way to
 save just load.
 
-![funny_11zon(2)](https://user-images.githubusercontent.com/79758393/167443950-4cf4614d-b73f-477e-8dab-89be95adf274.jpg)
+![11zon_resized](https://user-images.githubusercontent.com/79758393/167444222-1aa68d4f-f299-4543-9cc0-4ccaafd0fc9b.jpg)
