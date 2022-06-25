@@ -39,6 +39,7 @@ Installer when you first run it.
 If the installer doesnt work run these pip commands:
 
 pip install opencv-python==4.5.1.48
+
 pip install Pillow==8.2.0
   
  
